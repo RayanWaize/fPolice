@@ -1,2 +1,8 @@
 # fPolice
-Pour les base armes en items
+
+fPolice en RUI qui tourne à 0.01ms.
+
+```
+ensure fPolice
+ensure menuprops
+```
